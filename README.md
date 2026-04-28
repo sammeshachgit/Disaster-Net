@@ -4,6 +4,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Try the application here:  
+👉 https://disasternetweb.netlify.app/
+
+---
+
 ## 🧠 Overview
 
 DisasterNet is a **comprehensive disaster management platform** designed to enhance:
